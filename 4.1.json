@@ -5,6 +5,6 @@
     "isTouchscreen": false,
     "devices": ["touchpad", "webcam"],
     "cena": 899.99,       
-    "Gwarancja": 2,     // Int
-    "ma touchpad": true   // Boolean 
+    "Gwarancja": 2,    
+    "ma touchpad": true   
   }
