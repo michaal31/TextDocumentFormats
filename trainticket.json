@@ -1,0 +1,15 @@
+{
+    "ticketNumber": "1234567890",
+    "departureStation": "Kraków Główny",
+    "arrivalStation": "Ciężkowice Bogoniowice",
+    "departureTime": "2024-12-01 8:16",
+    "arrivalTime": "2024-12-01 9:50",
+    "trainType": "TLK",
+    "seatNumber": "45",
+    "passenger": {
+      "name": "Michał Rutka",
+      "age": 21,
+      "ticketType": "Student"
+    },
+    "price": 10
+  }
