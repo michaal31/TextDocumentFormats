@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Apple" model="iPhone 14" year="2022">
+        <screen size="6.1" resolution="2532x1170" type="Super Retina XDR" />
+        <processor name="A15 Bionic" cores="6" />
+        <camera main="12MP" front="12MP" features="Photonic Engine, Night Mode" />
+        <battery capacity="3279mAh" type="Li-Ion" />
+    </smartphone>
+    <smartphone brand="Samsung" model="Galaxy S21" year="2021">
+        <screen size="6.2" resolution="2400x1080" />
+        <processor name="Exynos 2100" cores="8" />
+        <camera main="12MP" front="10MP" />
+        <battery capacity="4000mAh" type="Li-Ion" />
+    </smartphone>
+</smartphones>
