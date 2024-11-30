@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <pojazd typ="samochód" paliwo="benzyna">
+        <marka>Toyota</marka>
+        <model>Corolla</model>
+        <pojemnosc>5</pojemnosc>
+        <uzycie>Codzienny dojazd</uzycie>
+    </pojazd>
+    <pojazd typ="rower" paliwo="brak">
+        <marka>Trek</marka>
+        <model>Domane AL 2</model>
+        <pojemnosc>1/2</pojemnosc>
+        <uzycie>Rekreacyjna jazda</uzycie>
+    </pojazd>
+    <pojazd typ="autobus" paliwo="diesel">
+        <marka>Volvo</marka>
+        <model>B8R</model>
+        <pojemnosc>50</pojemnosc>
+        <uzycie>Transport publiczny</uzycie>
+    </pojazd>
+</transport>
