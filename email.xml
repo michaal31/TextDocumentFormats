@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>John Doe</name>
+        <emailAddress>johndoe@example.com</emailAddress>
+    </sender>
+    <recipient>
+        <name>Jane Smith</name>
+        <emailAddress>janesmith@example.com</emailAddress>
+    </recipient>
+    <subject>Potwierdzenie spotkania</subject>
+    <body>
+        Cześć Jane,
+        
+        Mam nadzieję, że u Ciebie wszystko w porządku. Chciałem potwierdzić nasze spotkanie zaplanowane na przyszły wtorek o godzinie 15:00. Daj znać, czy ten termin wciąż Ci odpowiada.
+        
+        Pozdrawiam serdecznie,  
+        John
+    </body>
+</email>
